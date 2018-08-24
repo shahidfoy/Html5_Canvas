@@ -1,5 +1,13 @@
-command args:
+#Html5 Canvas
 
-webpack       // starts server
+##command args:
 
-npm install   // installs files
+installs depenencies
+```
+npm install 
+``` 
+
+starts server
+```
+webpack   
+```    
